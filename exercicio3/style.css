@@ -1,0 +1,15 @@
+.texto{
+    margin: 40px;/*Espaçamento entre um parágrafo e outro */
+    padding: 20px;
+
+}
+.primeiro-paragrafo{
+    background-color: #F5F5F5;
+    
+}
+.segundo-paragrafo{
+    background-color: #F0CCE2;
+    margin: 40px;
+    padding: 20px;
+     
+}
