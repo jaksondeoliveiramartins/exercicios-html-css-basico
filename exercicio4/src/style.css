@@ -3,16 +3,8 @@ border{
     box-sizing: border-box;
     
 }
-div {
-    margin: 0 350px;
+
     
-    
-   
-    
-    
-    
-    
-}
 table, th,td{
     border: 1px solid white;
     color: white;
@@ -20,10 +12,10 @@ table, th,td{
     
     
 }
-.table{
+table{
     width: 500px;
     height: 500px;
-    
+    display: contents;
     
 }
 
@@ -46,3 +38,8 @@ h1{
     text-align: left;
 
 }
+   
+    
+    
+    
+    
