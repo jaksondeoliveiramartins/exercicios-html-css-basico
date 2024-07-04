@@ -1,0 +1,48 @@
+border{
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+div {
+    margin: 0 350px;
+    
+    
+   
+    
+    
+    
+    
+}
+table, th,td{
+    border: 1px solid white;
+    color: white;
+    
+    
+    
+}
+.table{
+    width: 500px;
+    height: 500px;
+    
+    
+}
+
+
+.moda{
+    background-color: #BB86FC;
+}
+.produto-moda{
+    background-color: #424250;
+}
+.casa{
+    background-color: #00C4B4;
+
+}
+.produto-casa{
+    background-color: #424250;
+
+}
+h1{
+    text-align: left;
+
+}
