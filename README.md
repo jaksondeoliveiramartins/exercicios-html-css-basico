@@ -2,3 +2,7 @@
 🏆🎖🎯
 
 [<img src="./praticando.gif" alt="gif do exercicio">]
+
+## Tecnologias Usadas.
+- HTML
+- CSS
