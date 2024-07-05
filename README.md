@@ -1,2 +1,3 @@
-# exercendo o conhecimento teorico e colocando em prática
-[<img src="./Animação.gif" alt="gif do exercicio4">]
+# Exercendo o conhecimento teorico e colocando em prática
+🚀🚀🚀📚📚📚
+[<img src="./praticando.gif" alt="gif do exercicio4">]
